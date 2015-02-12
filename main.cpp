@@ -9,8 +9,8 @@
 #include <iostream>
 
 int main() {
-    int i = 1;
-    while (i < 100)
+    
+    for (int i=1; i < 100; i++)
     {
         if (i%15 == 0)
         {
