@@ -1,4 +1,4 @@
 language: cpp
 compiler:
-- g++
-
+- gcc
+./configure && make && make test
