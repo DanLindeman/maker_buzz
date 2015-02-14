@@ -29,7 +29,7 @@ int main() {
             std::cout << i << "\n";
         }
         
-        i++;
+      
     }
     return 0;
 }
