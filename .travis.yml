@@ -1,4 +1,4 @@
 language: cpp
-compiler:gcc
+compiler: gcc
 sudo: false
 ./configure && make && make test
