@@ -1,3 +1,4 @@
 language: cpp
 compiler:gcc
+sudo: false
 ./configure && make && make test
